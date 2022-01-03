@@ -1,6 +1,6 @@
 ## z-document
 
-> a document editor - the design idea is based on Google doc
+> a document editor - the design idea is based on Google Docs
 
 # preview
 
