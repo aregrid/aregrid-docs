@@ -1,6 +1,6 @@
 ## z-document
 
-> a document editor - the design idea is based on Google Docs
+> Docs editor - the design idea is based on Google Docs. If you want to know more details，please visit https://bit.ly/3zkIvRe . A powerful cloud document editing tool based on webpack and typescript and react.
 
 # preview
 
