@@ -4,7 +4,7 @@
 
 # preview
 
-https://cg0101.github.io/z-document/
+https://cg0101.github.io/z-docs/
 
 
 ## qucik start
