@@ -1,5 +1,5 @@
-import { createApp } from 'vue'
-import App from './z-document.vue'
-import './z-document.less'
+import { createApp } from "vue";
+import App from "./docs.vue";
+import "./docs.less";
 
-createApp(App).mount('#app')
+createApp(App).mount("#app");
