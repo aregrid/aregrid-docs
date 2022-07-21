@@ -1,7 +1,7 @@
 <template>
   <div class="zd">
     <div class="zd-toolbar">
-      <button @click="replay">replay command record</button>
+      <button @click="replay">Replay History</button>
       <!-- <span v-for="item in toolbarMenus" class="zd-toolbar-{{item.key}}">{{item.name||item.key}}</span> -->
     </div>
     <div class="zd-editor" ref="editor" :style="editStyle" @mousedown="onEditorMouseDown" @mouseup="onEditorMouseUp"
