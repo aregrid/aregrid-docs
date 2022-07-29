@@ -4,7 +4,7 @@
 
 # preview
 
-https://cg0101.github.io/docs/
+https://tzhangchi.github.io/docs/
 
 ## qucik start
 
