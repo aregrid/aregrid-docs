@@ -1,10 +1,10 @@
-## docs
+## aregrid-docs
 
 > Docs editor - the design idea is based on Google Docs. If you want to know more details，please visit https://bit.ly/3zkIvRe . A powerful cloud document editing tool based on webpack and typescript and react.
 
 # preview
 
-https://aregrid.github.io/docs/
+https://aregrid.github.io/aregrid-docs/
 
 ## qucik start
 
@@ -18,4 +18,4 @@ npm run build
 
 [MIT](https://opensource.org/licenses/MIT)
 
-Copyright (c) 2013-present, zhangchi
+Copyright (c) 2013-present, aregrid
